@@ -1,0 +1,28 @@
+{
+  "name": "cpaas-sdk-hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@kandy-io/cpaas-sdk": "4.9.0",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "redux-zero": "5.1.1"
+  },
+  "devDependencies": {
+    "react-scripts": "3.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
